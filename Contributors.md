@@ -1900,6 +1900,7 @@ Sino Felicity Zwane
 - [Zumofute](https://github.com/Zumofute)
   [MacayanRochel](https://github.com/MacayanRochel)
 - [Vivek Kumar] (https://github.com/vickvey)
+-yash
 - [Chen Zhang](https://github.com/leviosacz)
 - [Aryaman](https://github.com/SilianRail)
 - [Brandon](https://github.com/Boom123bam)
